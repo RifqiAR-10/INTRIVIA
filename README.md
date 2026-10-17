@@ -11,3 +11,6 @@ Mengikuti Intrivia FILKOM UB memberikan pengalaman yang sangat berkesan sebagai 
 ## Kesan Pesan Cluster 15 Sejauh Ini 
 Berada di cluster ini memberikan pengalaman yang sangat menyenangkan. Meskipun prosesnya padat dan menantang, kebersamaan serta kehangatan sesama anggota membuat semua dinamika terasa jauh lebih ringan dan berkesan.
 Terima kasih banyak untuk seluruh teman-teman cluster atas kerja sama, kekompakan, dan dukungannya selama jalannya Intrivia FILKOM UB.
+
+## harapan selama kuliah
+Selama kuliah di FILKOM UB, harapannya dapat menguasai bidang software engineering dan cybersecurity, menjaga IPK tetap stabil agar lulus tepat waktu, serta membangun portofolio proyek yang solid sebagai bekal berkarir di industri IT.
